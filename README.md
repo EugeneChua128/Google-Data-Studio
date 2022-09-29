@@ -10,4 +10,4 @@ This is the raw dataset obtained from the open sourced website.
 ## Ottawa Public Drinking Water Fountains (Cleaned) 
 This is the cleaned dataset before moving to visualizing the data in Google Data Studio.
 
-Data visualized in this repositories will be referring from sample dataset obtained at [Ottawa Public Drinking Water Fountains](https://open.ottawa.ca/maps/public-drinking-water-fountains) web portal. 
+Data visualized in this repositories will be referring from sample dataset obtained at [Ottawa Public Drinking Water Fountains](https://open.ottawa.ca/maps/public-drinking-water-fountains) website. 
