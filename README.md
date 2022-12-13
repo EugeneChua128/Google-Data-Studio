@@ -1,8 +1,8 @@
 # Google-Looker-Studio
-Utilizing and creating dashboard using visualization tool such as Google Data Studio (Great platform for beginners!)
+Utilizing and creating dashboard using visualization tool such as Google Looker Studio (Great platform for beginners!)
 
 Google Data Studio is a great visualization tool for both beginners and intermediate user who wanted to try out data visualization for the first time. 
-One thing great about Google Data Studio is the ecosystem itself, as it is well-integrated throughout the Google platform.
+One thing great about Google Looker Studio is the ecosystem itself, as it is well-integrated throughout the Google platform.
 
 ## Ottawa Public Drinking Water Fountains (Raw) 
 This is the raw dataset obtained from the open sourced website. 
