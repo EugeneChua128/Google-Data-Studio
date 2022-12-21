@@ -1,4 +1,4 @@
-# Google-Looker-Studio
+# Ottawa Public Drinking Water Fountains Dashboard
 Utilizing and creating dashboard using visualization tool such as Google Looker Studio (Great platform for beginners!)
 
 Google Data Studio is a great visualization tool for both beginners and intermediate user who wanted to try out data visualization for the first time. 
